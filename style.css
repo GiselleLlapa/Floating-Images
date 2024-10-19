@@ -1,0 +1,51 @@
+body {
+  background-color: azure;
+}
+
+header {
+  background-color: lightgray;
+  border: none;
+  margin: 2px;
+  padding: 10px;
+}
+
+h1 {
+  border: none;
+  font-size: 60px;
+  text-align: center;
+}
+
+.section1 {
+  background-color: lightgrey;
+  border: none;
+  margin: 2px;
+  padding: 10px;
+}
+
+#image1 {
+  float: right;
+  height: 270px;
+  width: auto;
+}
+
+p {
+  font-size: 30px;
+}
+
+.section2 {
+  background-color: lightgray;
+  border: none;
+  margin: 2px;
+  padding: 10px;
+}
+
+#image2 {
+  float: left;
+  height: 270px;
+  width: auto;
+}
+
+div {
+  margin: auto;
+  padding: 20px;
+}
