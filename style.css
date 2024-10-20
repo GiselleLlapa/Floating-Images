@@ -5,7 +5,7 @@ body {
 header {
   background-color: lightgray;
   border: none;
-  margin: 2px;
+  margin: 20px;
   padding: 10px;
 }
 
@@ -18,8 +18,8 @@ h1 {
 .section1 {
   background-color: lightgrey;
   border: none;
-  margin: 2px;
-  padding: 10px;
+  margin: 20px;
+  padding: 20px;
 }
 
 #image1 {
@@ -35,8 +35,8 @@ p {
 .section2 {
   background-color: lightgray;
   border: none;
-  margin: 2px;
-  padding: 10px;
+  margin: 20px;
+  padding: 20px;
 }
 
 #image2 {
